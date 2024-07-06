@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader.comp</file>
+        <file>shader.vert</file>
+        <file>shader.geom</file>
+        <file>shader.frag</file>
+    </qresource>
+</RCC>
